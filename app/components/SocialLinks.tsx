@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import { Github, Instagram, Linkedin, Twitter } from "lucide-react"
+import { Github, Instagram, Linkedin } from "lucide-react"
 
 const socialLinks = [
   { name: "GitHub", icon: Github, url: "https://github.com/FabioSebs" },

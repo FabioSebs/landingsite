@@ -50,7 +50,7 @@ export default function Home() {
           >
             <h2 className="text-xl font-bold mb-4">About Me</h2>
             <p className="text-gray-700 mb-4">
-              I'm a passionate developer with a love for creating software and educating / learning from others
+              I am a passionate developer with a love for creating software and educating / learning from others
             </p>
             <h3 className="text-lg font-semibold mb-2">Skills</h3>
             <div className="flex flex-wrap gap-2">
